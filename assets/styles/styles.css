@@ -1,0 +1,64 @@
+/*  Paleta de Colores 
+origen: #c75858
+50: #fcf4f4
+100: #f8e8e8
+200: #f3d5d5
+300: #eab7b7
+400: #dc8d8d
+600: #b74b4b
+700: #993c3c
+800: #7f3535
+900: #6b3131
+950: #391616
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.bg-navbar{
+    background-color: #7f3535;
+}
+.text-card-title{
+    font-weight: 300;
+    font-size: 20pt;
+}
+.text-card-description{
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+}
+.text-card-tag{
+    font-weight: 300;
+    font-size: 13pt;
+    color: #707070;
+}
+.text-price-light{
+    font-weight: 300;
+    color: #707070;
+    font-size: 16pt;
+}
+.text-price-medium{
+    font-weight: 500;
+    font-style: normal;
+    color: #7f3535;
+    font-size: 20pt;
+}
+.text-form-ofertas{
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    font-size: 21pt;
+}
+.bg-footer{
+    background-color: #f8e8e8;
+}
+.text-footer{
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+}
